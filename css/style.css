@@ -1,13 +1,7 @@
 .film {
 	display: inline-block;
 	width: 250px;
-	height: 400px;	
-	border: solid black 1px;
-/*
-	border: solid black 1px;
-	padding: 1px;
-	margin: 1px;
-*/
+	height: 300px;	
 }
 
 .film img {
@@ -16,6 +10,7 @@
 	margin: auto;
 }
 
-.film h5 {
+/*.film h5 {
 	text-align: center;
 }
+*/
