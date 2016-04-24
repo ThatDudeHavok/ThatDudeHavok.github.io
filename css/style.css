@@ -1,0 +1,15 @@
+.film {
+	display: inline-block;
+	width: 250px;
+	height: 300px;	
+}
+
+.film img {
+	height: 200px;
+	width: auto;
+	margin: auto;
+}
+
+table, td, th { 
+	border: 1px solid gray 
+}
