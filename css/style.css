@@ -34,6 +34,18 @@ table, td, th {
 	text-align: center;
 }
 
+#intro ul {
+	width: auto;
+}
+
+#intro ul li{
+	border: solid black 2px;
+	display: inline-block;
+	background-color: #EAEAE1;
+	padding: 3px;
+	font-weight: bold;
+}
+
 #comparison h4 {
 	text-align: center;
 }
