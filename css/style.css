@@ -8,6 +8,7 @@
 .film h5 {
 	text-align: center;
 }
+
 .film img {
 	height: 200px;
 	display: block;
@@ -16,5 +17,13 @@
 }
 
 table, td, th { 
-	border: 1px solid gray 
+	border: 1px solid gray;
+}
+
+#intro {
+	font-family: "Times New Roman", Times, serif;
+}
+
+#comparison article p {
+	font-family: "Times New Roman", Times, serif;
 }
