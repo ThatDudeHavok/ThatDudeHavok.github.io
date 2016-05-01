@@ -5,7 +5,7 @@ body {
 .film {
 	display: inline-block;
 	width: 500px;
-	height: 300px;
+	height: auto;
 	margin: 15px;
 	background-color: #EAEAE1;
 	border-radius: 4px;
