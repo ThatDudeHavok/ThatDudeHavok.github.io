@@ -5,8 +5,12 @@
 	margin: 15px;
 }
 
+.film h5 {
+	text-align: center;
+}
 .film img {
 	height: 200px;
+	display: block;
 	width: auto;
 	margin: auto;
 }
