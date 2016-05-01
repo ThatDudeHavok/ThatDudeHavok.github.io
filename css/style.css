@@ -23,6 +23,13 @@ table, td, th {
 #intro {
 	font-family: "Times New Roman", Times, serif;
 }
+#intro h1 {
+	text-align: center;
+}
+
+#comparison h4 {
+	text-align: center;
+}
 
 #comparison article p {
 	font-family: "Times New Roman", Times, serif;
