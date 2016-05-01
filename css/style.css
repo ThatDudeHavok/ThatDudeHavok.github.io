@@ -4,7 +4,7 @@ body {
 
 .film {
 	display: inline-block;
-	width: 250px;
+	width: 500px;
 	height: 300px;
 	margin: 15px;
 	background-color: #EAEAE1;
@@ -16,10 +16,18 @@ body {
 }
 
 .film img {
-	height: 200px;
-	display: block;
+	border: solid red 1px;
+	max-height: 300px;
+	display: inline-block;
 	width: auto;
+	max-width: 240px;
 	margin: auto;
+}
+
+.film p {
+	display: inline-block;
+	width: 190px;
+	border: solid black 1px;
 }
 
 table, td, th { 
