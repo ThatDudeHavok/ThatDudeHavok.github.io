@@ -30,6 +30,16 @@ body {
 	border: solid black 1px;
 }
 
+#scifi_films h4 {
+	font-family: heavy_dataregular;
+	text-align: center;
+}
+
+#zombie_films h4 {
+	font-family: bloodynormal;
+	text-align: center;
+}
+
 table {
 	margin: auto;
 }
