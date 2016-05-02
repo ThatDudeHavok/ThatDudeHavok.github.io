@@ -71,6 +71,13 @@ table, td, th {
 #comparison h4 {
 	text-align: center;
 }
+#comparison a {
+	display: block;
+	text-align: center;
+}
+#comparison article {
+	text-align: center;
+}
 
 #comparison article p {
 	font-family: "Times New Roman", Times, serif;
