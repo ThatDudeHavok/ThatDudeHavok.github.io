@@ -16,18 +16,18 @@ body {
 }
 
 .film img {
-	border: solid red 1px;
 	max-height: 300px;
-	display: inline-block;
+	display: inline;
 	width: auto;
 	max-width: 240px;
 	margin: auto;
+	vertical-align: top;
 }
 
 .film p {
 	display: inline-block;
+	vertical-align: top;
 	width: 190px;
-	border: solid black 1px;
 }
 
 #zombie_films h2 {
