@@ -76,6 +76,12 @@ table, td, th {
 	font-family: "Times New Roman", Times, serif;
 	padding: 5px;
 	margin: 5px;
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	border: solid black 3px;
+	vertical-align: top;
+	border-radius: 10px;
 }
 
 a:link {
