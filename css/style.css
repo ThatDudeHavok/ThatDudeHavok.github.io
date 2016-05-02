@@ -4,8 +4,8 @@ body {
 
 .film {
 	display: inline-block;
-	width: 250px;
-	height: 300px;
+	width: 500px;
+	height: auto;
 	margin: 15px;
 	background-color: #EAEAE1;
 	border-radius: 4px;
@@ -16,9 +16,31 @@ body {
 }
 
 .film img {
-	height: 200px;
-	display: block;
+	max-height: 300px;
+	display: inline;
 	width: auto;
+	max-width: 240px;
+	margin: auto;
+	vertical-align: top;
+}
+
+.film p {
+	display: inline-block;
+	vertical-align: top;
+	width: 190px;
+}
+
+#zombie_films h2 {
+	font-family: bloodynormal;
+	text-align: center;
+}
+
+#scifi_films h2 {
+	font-family: heavy_dataregular;
+	text-align: center;
+}
+
+table {
 	margin: auto;
 }
 
@@ -49,11 +71,24 @@ table, td, th {
 #comparison h4 {
 	text-align: center;
 }
+#comparison a {
+	display: block;
+	text-align: center;
+}
+#comparison article {
+	text-align: center;
+}
 
 #comparison article p {
 	font-family: "Times New Roman", Times, serif;
 	padding: 5px;
 	margin: 5px;
+	width: 250px;
+	height: 250px;
+	display: inline-block;
+	border: solid black 3px;
+	vertical-align: top;
+	border-radius: 10px;
 }
 
 a:link {
